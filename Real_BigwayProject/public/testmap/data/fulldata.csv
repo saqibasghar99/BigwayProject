@@ -1,0 +1,207 @@
+student_name,notes,pickup_time,drop_time,amount,school_id,student_pickup_name,student_pickup_latidute,student_pickup_longitude,type,gender,parent_id
+Arham,Pick & Drop,7:00,13:15,0,48,"Akahri Mint Stop, Rasheed Pura Rd, Khan Colony, Lahore, Punjab 54000, Pakistan",31.5792526,74.390811,AC,Male,1502
+Hareem,Pick & Drop,7:00,13:15,0,48,"Akahri Mint Stop, Rasheed Pura Rd, Khan Colony, Lahore, Punjab 54000, Pakistan",31.5792526,74.390811,AC,Female,1502
+Hashim,Pick & Drop,7:00,13:15,0,171,"Jallo, Lahore, Punjab, Pakistan",31.5408834,74.4866386,AC,Male,1504
+Irha,Pick & Drop,7:00,13:15,0,149,"Jallo, Lahore, Punjab, Pakistan",31.5408834,74.4866386,AC,Female,1504
+Tayyab Ahmad,Pick & Drop,7:00,13:15,0,72,"DHA Phase 3, Lahore, Punjab, Pakistan",31.4736114,74.3630336,AC,Male,1505
+kahdija Ahmad,Pick & Drop,7:00,13:15,0,68,"DHA Phase 3, Lahore, Punjab, Pakistan",31.4736114,74.3630336,AC,Female,1505
+Ali Ahmad,Pick & Drop,7:00,13:15,0,73,"DHA Phase 3, Lahore, Punjab, Pakistan",31.4736114,74.3630336,AC,Male,1505
+A,Pick & Drop,7:00,13:15,0,51,"Askari X, Lahore, Punjab, Pakistan",31.5392786,74.4084496,AC,Male,1506
+Batool,Pick & Drop,8:00,13:15,0,103,"Johar Town, Lahore, Punjab, Pakistan",31.4646357,74.203141,AC,Female,1507
+ABDULLAH,Pick & Drop,8:00,13:15,0,150,"DHA Rahbar, Lahore, Punjab, Pakistan",31.3865207,74.2404072,Non AC,Male,1508
+Nisha,Pick & Drop,8:00,13:15,0,167,"Board of revenue society, Lahore, Punjab, Pakistan",31.4761918,74.2928875,AC,Female,1509
+Huzaifa,Pick & Drop,8:00,13:15,0,167,"Board of revenue society, Lahore, Punjab, Pakistan",31.4761918,74.2928875,AC,Female,1509
+Safdar,Pick & Drop,8:00,13:15,0,174,"Park View, Lahore, Punjab, Pakistan",31.4540673,74.1873169,AC,Male,1510
+Yumna,Pick & Drop,8:00,13:15,0,174,"Park View, Lahore, Punjab, Pakistan",31.4540673,74.1873169,AC,Female,1510
+Minal,Pick & Drop,8:00,13:15,0,55,"Shera Kot, Lahore, Punjab, Pakistan",31.5399212,74.239904,AC,Female,1511
+Ahad,Pick & Drop,8:00,13:15,0,55,"Shera Kot, Lahore, Punjab, Pakistan",31.5399212,74.239904,AC,Male,1511
+B,Pick & Drop,8:00,13:15,0,167,"Johar Town, Lahore, Punjab, Pakistan",31.4646357,74.203141,AC,Male,1512
+C,Pick & Drop,8:00,13:15,0,167,"Johar Town, Lahore, Punjab, Pakistan",31.4646357,74.203141,AC,Male,1512
+D,Pick & Drop,8:00,13:15,0,177,"Bahria Town, Lahore, Punjab, Pakistan",31.3651418,74.139796,AC,Male,1513
+D,Pick & Drop,8:00,13:15,0,78,"Sanda, Lahore, Punjab, Pakistan",31.5612948,74.2731231,Non AC,Male,1514
+D,Pick & Drop,8:00,13:15,0,78,"Sanda, Lahore, Punjab, Pakistan",31.5612948,74.2731231,Non AC,Male,1514
+F,Pick & Drop,8:00,13:15,0,83,"Main Market Gulberg, Lahore, Pakistan",31.5442239,74.3435309,Non AC,Male,1516
+F,Pick & Drop,8:00,13:15,0,78,"Mustafabad Dharmpura, Lahore, Punjab, Pakistan",31.5530332,74.3460697,Non AC,Male,1518
+D,Pick & Drop,8:00,13:15,0,50,"Bahria Town, Lahore, Punjab, Pakistan",31.3651418,74.139796,AC,Male,1519
+D,Pick & Drop,8:00,13:15,0,78,"Gulshan-e-Ravi, Lahore, Punjab, Pakistan",31.5502786,74.270116,Non AC,Male,1520
+E,Pick & Drop,8:00,13:15,0,160,"Park View, Lahore, Punjab, Pakistan",31.4540673,74.1873169,AC,Female,1521
+E,Pick & Drop,8:00,13:15,0,112,"Gurumangat Road, Lahore, Punjab, Pakistan",31.5088349,74.3552081,AC,Male,1522
+G,Pick & Drop,8:00,13:15,0,178,"Askari V, Lahore, Punjab, Pakistan",31.4976198,74.3306541,Non AC,Male,1524
+G,Pick & Drop,8:00,13:15,0,178,"Askari V, Lahore, Punjab, Pakistan",31.4976198,74.3306541,Non AC,Male,1524
+E,Pick & Drop,8:00,13:15,0,33,"Block B New Chauburji Park, Lahore, Punjab, Pakistan",31.5540057,74.3020864,Non AC,Female,1535
+F,Pick & Drop,8:00,13:15,0,33,"Block B New Chauburji Park, Lahore, Punjab, Pakistan",31.5540057,74.3020864,Non AC,Male,1535
+F,Pick & Drop,8:00,13:15,0,33,"Block B New Chauburji Park, Lahore, Punjab, Pakistan",31.5540057,74.3020864,Non AC,Male,1535
+D,Pick & Drop,8:00,13:15,0,47,"Bismillah Housing Scheme main park, Lahore, Punjab, Pakistan",31.5995756,74.4769359,Non AC,Female,1537
+E,Pick & Drop,8:00,13:15,0,47,"Bismillah Housing Scheme main park, Lahore, Punjab, Pakistan",31.5995756,74.4769359,Non AC,Male,1537
+J,Pick & Drop,8:00,13:15,0,47,"Bismillah Housing Scheme main park, Lahore, Punjab, Pakistan",31.5995756,74.4769359,Non AC,Male,1537
+G,Pick & Drop,8:00,13:15,0,152,"109 F Audit and account phase 1, lahore, Punjab, Pakistan",31.4042057,74.2654693,Non AC,Female,1540
+Abdullah,Pick & Drop,8:00,13:15,0,116,"FCM8+H76, Cantt View Phase 1 Phase 1 Cantt View Housing Scheme, Lahore, Punjab, Pakistan",31.4722308,74.3070846,Non AC,Male,1542
+Khadija,Pick & Drop,8:00,13:15,0,116,"FCM8+H76, Cantt View Phase 1 Phase 1 Cantt View Housing Scheme, Lahore, Punjab, Pakistan",31.4722308,74.3070846,Non AC,Female,1542
+Zainab,Pick & Drop,8:00,13:15,0,116,"FCM8+H76, Cantt View Phase 1 Phase 1 Cantt View Housing Scheme, Lahore, Punjab, Pakistan",31.4722308,74.3070846,Non AC,Female,1542
+Kinza,Pick & Drop,8:00,13:15,0,109,"Taj Bagh Scheme, Lahore, Punjab, Pakistan",31.5618483,74.4086838,Non AC,Female,1543
+Arfa,Pick & Drop,8:00,13:15,0,109,"Taj Bagh Scheme, Lahore, Punjab, Pakistan",31.5618483,74.4086838,Non AC,Female,1543
+Ibrahim,Pick & Drop,8:00,13:15,0,117,"HCGG+GR3 park, street 4b harbanspura,Afzal, Harbanspura, Lahore, 54850, Pakistan",31.5728318,74.4276582,Non AC,Male,1544
+Ramin,Pick & Drop,8:00,13:15,0,117,"HCGG+GR3 park, street 4b harbanspura,Afzal, Harbanspura, Lahore, 54850, Pakistan",31.5728318,74.4276582,Non AC,Female,1544
+Mahnoor,Pick & Drop,8:00,13:15,0,35,"CMH Lahore, Lahore, Punjab, Pakistan",31.5402044,74.3652369,Non AC,Female,1548
+Haseeb,Pick & Drop,8:00,13:15,0,35,"CMH Lahore, Lahore, Punjab, Pakistan",31.5402044,74.3652369,Non AC,Male,1548
+Eihami,Pick & Drop,8:00,13:15,0,119,"Police station Ravi Road, Lahore",31.5977957,74.3012417,Non AC,Male,1554
+Touheed,Pick & Drop,8:00,13:15,0,119,"Police station Ravi Road, Lahore",31.5977957,74.3012417,Non AC,Male,1554
+Hashim,Pick & Drop,8:00,13:15,0,109,"Islam Pura Kot Khawaja Saeed, Lahore, Punjab, Pakistan",31.5854108,74.3642529,Non AC,Male,1557
+xyz,Pick & Drop,8:00,13:15,0,109,"Islam Pura Kot Khawaja Saeed, Lahore, Punjab, Pakistan",31.5854108,74.3642529,Non AC,Male,1557
+abc,Pick & Drop,8:00,13:15,0,109,"Islam Pura Kot Khawaja Saeed, Lahore, Punjab, Pakistan",31.5854108,74.3642529,Non AC,Male,1557
+Yahya,Pick & Drop,8:00,13:15,0,138,"Shama Road, Lahore, Punjab, Pakistan",31.5414213,74.3100403,AC,Male,1559
+Hammad,Pick & Drop,8:00,13:15,0,35,"Park Imperial 1 block, Pargon city, Barki Road, Lahore, Punjab, Pakistan",31.527192,74.4598241,AC,Male,1560
+Sarah,Pick & Drop,8:00,13:15,0,35,"Park Imperial 1 block, Pargon city, Barki Road, Lahore, Punjab, Pakistan",31.527192,74.4598241,AC,Female,1560
+Yousaf,Pick & Drop,8:00,13:15,0,93,"DHA EME sector, Lahore, Punjab, Pakistan",31.4389816,74.1883871,AC,Male,1562
+Ali ,Pick & Drop,8:00,13:15,0,110,"Al-Rehman Garden, Phase 3 Lahore, Punjab, Pakistan",31.5946718,74.446922,AC,Male,1563
+Umar,Pick & Drop,8:00,13:15,0,78,"Shalimar Town, Lahore, Punjab, Pakistan",31.586937,74.3773022,Non AC,Male,1566
+Hussnain,Pick & Drop,8:00,13:15,0,78,"Tajpura, Lahore, Punjab, Pakistan",31.5615626,74.3913515,Non AC,Male,1567
+Azan,Pick & Drop,8:00,13:15,0,177,"Canal Gardens, Lahore, Punjab, Pakistan ",31.3902499,74.1636115,AC,Male,1568
+Eman,Pick & Drop,8:00,13:15,0,177,"Canal Gardens, Lahore, Punjab, Pakistan ",31.3902499,74.1636115,AC,Female,1568
+Faqiha,Pick & Drop,8:00,13:15,0,177,"Canal Gardens, Lahore, Punjab, Pakistan ",31.3902499,74.1636115,AC,Female,1568
+Tallha,Pick & Drop,8:00,13:15,0,148,"Tariq Garden, Lahore, Punjab, Pakistan",31.4193652,74.2482103,AC,Male,1570
+Kashaf,Pick & Drop,8:00,13:15,0,148,"Tariq Garden, Lahore, Punjab, Pakistan",31.4193652,74.2482103,AC,Female,1570
+Huzaifa,Pick & Drop,8:00,13:15,0,121,"Shadab Colony, Lahore, Punjab, Pakistan",31.4240395,74.3485674,AC,Male,1572
+Hanzala,Pick & Drop,8:00,13:15,0,121,"Shadab Colony, Lahore, Punjab, Pakistan",31.4240395,74.3485674,AC,Female,1572
+Umm-e-Haniya,Pick & Drop,8:00,13:15,0,121,"Shadab Colony, Lahore, Punjab, Pakistan",31.4240395,74.3485674,AC,Female,1572
+Ibrhaim,Pick & Drop,8:00,13:15,0,155,"Centeral Park housing Scheme, Lahore, Punjab, Pakistan",31.3202919,74.3851379,AC,Male,1579
+Muneed,Pick & Drop,8:00,13:15,0,155,"Centeral Park housing Scheme, Lahore, Punjab, Pakistan",31.3202919,74.3851379,AC,Male,1579
+Habeeb,Pick & Drop,8:00,13:15,0,155,"Centeral Park housing Scheme, Lahore, Punjab, Pakistan",31.3202919,74.3851379,AC,Male,1579
+Anaya,Pick & Drop,8:00,13:15,0,78,"P Block Sabzazar housing scheme Phase 1 & 2, Lahore, Punjab, Pakistan",31.5164883,74.2623103,Non AC,Female,1584
+Ali,Pick & Drop,8:00,13:15,0,139,"Askari 3 Lahore, Punjab, Pakistan",31.4970857,74.3952637,Non AC,Male,1587
+Airah,Pick & Drop,8:00,13:15,0,57,"Babu Sabu, Lahore, Punjab, Pakistan",31.5357829,74.527644,Non AC,Female,1589
+Irha,Pick & Drop,8:00,13:15,0,57,"Babu Sabu, Lahore, Punjab, Pakistan",31.5357829,74.527644,Non AC,Female,1589
+Anya Usman,Pick & Drop,8:00,13:15,0,148,"205, Canal city, 12 block B, Izmir Town, Lahore, Punjab, Pakistan",31.4191909,74.0348948,AC,Female,1593
+Tania,Pick & Drop,8:00,13:15,0,140,"Pak-Arab Housing Scheme, Lahore, Punjab, Pakistan",31.4322105,74.3379742,Non AC,Female,1595
+Itiza Ali,Pick & Drop,8:00,13:15,0,171,"Shalimar Town, Lahore, Punjab, Pakistan",31.586937,74.3773022,Non AC,Male,1596
+Amina,Pick & Drop,8:00,13:15,0,76,"Gari Shahu, Lahore, Punjab, Pakistan",31.5608199,74.3148008,Non AC,Female,1598
+Sameen,Pick & Drop,8:00,13:15,0,76,"Gari Shahu, Lahore, Punjab, Pakistan",31.5608199,74.3148008,Non AC,Female,1598
+Zain,Pick & Drop,8:00,13:15,0,96,"J Block State life society, Lahore, Punjab, Pakistan",31.4365185,74.392265,AC,Male,1600
+Zoha Fatima,Pick & Drop,8:00,13:15,0,96,"J Block State life society, Lahore, Punjab, Pakistan",31.4365185,74.392265,AC,Female,1600
+Haider,Pick & Drop,8:00,13:15,0,111,"TIP Society, Lahore, Punjab, Pakistan ",31.3985563,74.2678048,AC,Male,1601
+Hania,Pick & Drop,8:00,13:15,0,154,"Khayaban-e-Amin, Lahore, Punjab, Pakistan",31.3689502,74.2293501,AC,Female,1608
+Hassan,Pick & Drop,8:00,13:15,0,102,"DHA Phase 7, Lahore, Punjab, Pakistan",31.4656646,74.441384,AC,Male,1609
+Ahasn,Pick & Drop,8:00,13:15,0,81,"Shalimar Town, Lahore, Punjab, Pakistan",31.586937,74.3773022,AC,Male,1612
+Taimor,Pick & Drop,8:00,13:15,0,182,"Al Hafeez Garden Phase 2 Canal Rd, Bata Officers colony, Lahore, Punjab, Pakistan",31.5883161,74.4848989,Non AC,Male,1616
+Abdulhadi,Pick & Drop,8:00,13:15,0,182,"Al Hafeez Garden Phase 2 Canal Rd, Bata Officers colony, Lahore, Punjab, Pakistan",31.5883161,74.4848989,Non AC,Male,1616
+Abdul Rafia,Pick & Drop,8:00,13:15,0,182,"Al Hafeez Garden Phase 2 Canal Rd, Bata Officers colony, Lahore, Punjab, Pakistan",31.5883161,74.4848989,Non AC,Male,1616
+Zain,Pick & Drop,8:00,13:15,0,81,"Scheme No. 2, Lahore, Punjab, Pakistan",31.5937523,74.3448364,Non AC,Male,1622
+Mustafa,Pick & Drop,8:00,13:15,0,106,"Infantry Rd, Lahore, Punjab, Pakistan",31.5477541,74.3625046,Non AC,Male,1626
+Kebsha,Pick & Drop,8:00,13:15,0,50,"Bahria Town, Lahore, Punjab, Pakistan",31.3651418,74.139796,AC,Male,1628
+Azan,Pick & Drop,8:00,13:15,0,50,"Bahria Town, Lahore, Punjab, Pakistan",31.3651418,74.139796,AC,Male,1628
+Rehan,Pick & Drop,8:00,13:15,0,50,"Bahria Town, Lahore, Punjab, Pakistan",31.3651418,74.139796,AC,Male,1628
+Ahmad,Pick & Drop,8:00,13:15,0,126,"Phase 5 DHA, Lahore, Punjab, Pakistan",31.4638972,74.3916767,Non AC,Male,1629
+Abdul Hadi,Pick & Drop,8:00,13:15,0,142,"OPF housing Society, Lahore, Punjab, Pakistan",31.4229783,74.2026394,AC,Male,1630
+Umer Ali,Pick & Drop,8:00,13:15,0,78,"Shalimar Town, Lahore, Punjab, Pakistan",31.586937,74.3773022,Non AC,Male,1635
+M Umer,Pick & Drop,8:00,13:15,0,78,"Shalimar Town, Lahore, Punjab, Pakistan",31.586937,74.3773022,Non AC,Male,1635
+Ahmad,Pick & Drop,8:00,13:15,0,38,"Sabzazar Housing Scheme Phase 1 & 2 Sabzazar, Lahore, Punjab",31.5175117,74.249787,Non AC,Male,1640
+Affan,Pick & Drop,8:00,13:15,0,174,"Block G4 Phase 2 Johar town, Lahore, Punjab, Pakistan",31.4731949,74.2602206,Non AC,Male,1642
+Hurrain,Pick & Drop,8:00,13:15,0,174,"Block G4 Phase 2 Johar town, Lahore, Punjab, Pakistan",31.4731949,74.2602206,Non AC,Female,1642
+Yasmeen,Teacher,8:00,13:15,0,70,"Khalifa Nazir St Qila Gujar Singh, Lahore, Punjab, Pakistan",31.5684289,74.3307479,Non AC,Female,1645
+Ayesha,Pick & Drop,8:00,13:15,0,70,"Khalifa Nazir St Qila Gujar Singh, Lahore, Punjab, Pakistan",31.5684289,74.3307479,Non AC,Female,1645
+Dua Fatima,Pick & Drop,8:00,13:15,0,172,"Shahdra, Lahore, Punjab, Pakistan",31.6241374,74.1349526,AC,Female,1646
+Mariyam,Pick & Drop,8:00,13:15,0,49,"Jallo, Lahore, Punjab, Pakistan",31.5745927,74.4841585,Non AC,Female,1648
+Vishal,Pick & Drop,8:00,13:15,0,49,"Jallo, Lahore, Punjab, Pakistan",31.5745927,74.4841585,Non AC,Male,1648
+Amina,Pick & Drop,8:00,13:15,0,49,"Jallo, Lahore, Punjab, Pakistan",31.5745927,74.4841585,Non AC,Female,1648
+Musa,Pick & Drop,8:00,13:15,0,49,"Jallo, Lahore, Punjab, Pakistan",31.5745927,74.4841585,Non AC,Male,1648
+Bariq,Pick & Drop,8:00,13:15,0,162,"DHA Phase 2, Lahore, Punjab, Pakistan",31.4768341,74.381709,AC,Male,1649
+Aqsa,Pick & Drop,8:00,13:15,0,57,"Lahore Motorway city P Block, Sheikhupura, Punjab, Pakistan",31.639094,74.1354421,AC,Female,1650
+Abdullah,Pick & Drop,8:00,13:15,0,57,"Lahore Motorway city P Block, Sheikhupura, Punjab, Pakistan",31.639094,74.1354421,AC,Male,1650
+Ahmad,Pick & Drop,8:00,13:15,0,83,"Tech Society lahore, Punjab, Pakistan",31.4855159,74.2739604,Non AC,Male,1651
+Anum,Teacher,8:00,13:15,0,110,"Park View, Lahore, Punjab, Pakistan",31.4540673,74.1873169,AC,Female,1654
+Ishan,Pick & Drop,8:00,13:15,0,82,"Punjab Co-Operative Housing Society, Lahore, Punjab, Pakistan",31.4604457,74.3629228,AC,Male,1656
+Ilzan,Pick & Drop,8:00,13:15,0,82,"Punjab Co-Operative Housing Society, Lahore, Punjab, Pakistan",31.4604457,74.3629228,AC,Male,1656
+Irum,Teacher,8:00,13:15,0,56,"Canal Valley Society Lahore, Punjab, Pakistan",31.3969535,74.1673708,AC,Female,1657
+Adnan,Pick & Drop,8:00,13:15,0,146,"Bahria Town, Lahore, Punjab, Pakistan",31.3650692,74.1420275,AC,Male,1660
+Sajawal,Pick & Drop,8:00,13:15,0,146,"Bahria Town, Lahore, Punjab, Pakistan",31.3650692,74.1420275,AC,Male,1660
+M Saad,Pick & Drop,8:00,13:15,0,156,"Park View, Lahore, Punjab, Pakistan",31.4540493,74.1924668,AC,Male,1661
+Ahmad,Pick & Drop,8:00,13:15,0,156,"Park View, Lahore, Punjab, Pakistan",31.4540493,74.1924668,AC,Male,1661
+Zoha  ,Pick & Drop,8:00,13:15,0,86,"gulberg , Lahore ,punjab ,pakistan ",31.5193924,74.3402012,AC,Female,1662
+Rabia,Pick & Drop,8:00,13:15,0,120,"MODEL TOWN EXT L BLOCK,lahore ,punjab ,Pakistan ",31.4885273,74.3059138,AC,Female,1663
+Shairaz,Pick & Drop,8:00,13:15,0,58,"Nishat Colony , Lahore ,Punjab ,Pakistan ",31.4905472,74.3872314,AC,Female,1664
+mahnoor ,Pick & Drop,8:00,13:15,0,67,"Walton,Lahore ,Punjab ,Pakistan ",31.4780146,74.2994658,AC,Female,1665
+romaisa ,Pick & Drop,8:00,13:15,0,67,"Walton,Lahore ,Punjab ,Pakistan ",31.4780146,74.2994658,AC,Male ,1665
+Zain ul abidin,Pick & Drop,8:00,13:15,0,50,"Walton,Lahore ,Punjab ,Pakistan ",31.4780146,74.2994658,AC,Male ,1665
+Tahoor ,Pick & Drop,8:00,13:15,0,50,"Goori Block Sec F Bahria Town,Lahore ,punjab ,Pakistan ",31.391126,74.2090768,AC,Male ,1666
+Tatheer ,Pick & Drop,8:00,13:15,0,50,"Goori Block Sec F Bahria Town,Lahore ,punjab ,Pakistan ",31.391126,74.2090768,AC,Male ,1666
+Hadia ,Pick & Drop,8:00,13:15,0,175,"park view tulip extension,Lahore ,Punjab ,Pakistan ",31.4536537,74.1926336,AC,Female ,1668
+Fizza ,Pick & Drop,8:00,13:15,0,175,"park view tulip extension,Lahore ,Punjab ,Pakistan ",31.4536537,74.1926336,AC,Female ,1668
+Harib,Pick & Drop,8:00,13:15,0,175,"park view tulip extension,Lahore ,Punjab ,Pakistan ",31.4536537,74.1926336,AC,Male ,1668
+Saim,Pick & Drop,8:00,13:15,0,175,"park view tulip extension,Lahore ,Punjab ,Pakistan ",31.4536537,74.1926336,AC,Male ,1668
+Zimmal ,Pick & Drop,8:00,13:15,0,89,"Khayban-e-ameen Block S,Lahore ,Punjab ,Pakistan ",31.3521419,74.2698481,AC,Female ,1670
+Ayan ,Pick & Drop,8:00,13:15,0,89,"Khayban-e-ameen Block S,Lahore ,Punjab ,Pakistan ",31.3521419,74.2698481,AC,Male ,1670
+M Qadoos ,Pick & Drop,8:00,13:15,0,64,"Fazaiya ,Lahore ,Punjab ,Pakistan ",31.3681972,74.244326,AC,Male ,1671
+Ayesha ,Pick & Drop,8:00,13:15,0,50,"Sukh chain103 D ,Lahore ,Punjab ,Pakistan ",31.3521419,74.2698481,AC,Female ,1672
+Maryam ,Pick & Drop,8:00,13:15,0,50,"Sukh chain103 D ,Lahore ,Punjab ,Pakistan ",31.3521419,74.2698481,AC,Female ,1672
+Jawad ali,Pick & Drop,8:00,13:15,0,50,"Sukh chain103 D ,Lahore ,Punjab ,Pakistan ",31.3521419,74.2698481,AC,Female ,1672
+Humail ,Pick & Drop,8:00,13:15,0,175,"Shahjamal 89,Lahore ,Punjab ,Pakistan ",31.5294333,74.326142,AC,Female ,1674
+Anamta ,Pick & Drop,8:00,13:15,0,175,"Shahjamal 89,Lahore ,Punjab ,Pakistan ",31.5294333,74.326142,AC,Female ,1674
+Zayan ,Pick & Drop,8:00,13:15,0,44,"Margzar Colony block G 152 , Lahore ,Punjab ,Pakistan ",31.5031593,74.2468579,AC,Male ,1675
+Ayesha ,Pick & Drop,8:00,13:15,0,44,"Margzar Colony block G 152 , Lahore ,Punjab ,Pakistan ",31.5031593,74.2468579,AC,Male ,1675
+Arsa ,Pick & Drop,8:00,13:15,0,44,"Margzar Colony block G 152 , Lahore ,Punjab ,Pakistan ",31.5031593,74.2468579,AC,Male ,1675
+Kashaf ,Pick & Drop,8:00,13:15,0,71,"1 Moriya Pull ,Lahore ,Punjab,Pakistan ",31.5845966,74.3276946,AC,Female ,1676
+Azan ,Pick & Drop,8:00,13:15,0,165,"Shama,Lahore ,Punjab ,Pakistan ",31.5414168,74.3100403,AC,Male ,1678
+Zohan,Pick & Drop,8:00,13:15,0,165,"Shama,Lahore ,Punjab ,Pakistan ",31.5414168,74.3100403,AC,Male ,1678
+Maliha ,Pick & Drop,8:00,13:15,0,92,"ukasha, Lahore,Punjab,Pkistan",,,AC,Male ,1684
+Rija ,Pick & Drop,8:00,13:15,0,153,"Wafaqi Colony lane no 12 house 56 2  D ,Lahore,Punjab,Pakistan ",31.4806341,74.2880836,AC,Female ,1685
+Sarah ,Pick & Drop,8:00,13:15,0,50,"Sec D Bahria Town,Lahore ,Punjab ,Pakistan ",31.3727091,74.1667667,AC,Female ,1686
+ABC ,Pick & Drop,8:00,13:15,0,39,"Allama Iqbal Town Raza Block,Lahore,Punjab ,Pakistan ",31.5059462,74.2834672,AC,Female ,1687
+ABC ,Pick & Drop,8:00,13:15,0,39,"Allama Iqbal Town Raza Block,Lahore,Punjab ,Pakistan ",31.5059462,74.2834672,AC,Female ,1687
+ABC ,Pick & Drop,8:00,13:15,0,39,"Allama Iqbal Town Raza Block,Lahore,Punjab ,Pakistan ",31.5059462,74.2834672,AC,Female ,1687
+Minnah ,Pick & Drop,8:00,13:15,0,128,"Johar Town, Lahore, Punjab, Pakistan",31.4645821,74.2563627,AC,Female ,1688
+Rahim,Pick & Drop,8:00,13:15,0,164,"Askari 11 ,Lahore ,Punjab,Pakistan ",31.4612309,74.4279883,AC,Male ,1690
+Hareem ,Pick & Drop,8:00,13:15,0,164,"Askari 11 ,Lahore ,Punjab,Pakistan ",31.4612309,74.4279883,AC,Female ,1690
+Sayyad ,Pick & Drop,8:00,13:15,0,158,"Abu Dhabi Palace, Raiwind Rd, Lahore, Pakistan",31.4457483,74.2301301,AC,Male ,1691
+Azlan ,Pick & Drop,8:00,13:15,0,37,"Tariq Ismaeel Rd, Punjab University Employees Housing Scheme Phase-II, Lahore, Punjab, Pakistan",31.4290651,74.1679597,AC,Male ,1692
+Ibrahim ,Pick & Drop,8:00,13:15,0,83,SHAHDRA TOWN LAHORE PUNJAB  ,31.6166358,74.2820788,AC,Male ,1693
+Fiza ,Pick & Drop,8:00,13:15,0,107,"bahria orchard, lahore, punjab,Pakistan ",31.3180436,74.2017942,AC,Female ,1694
+Ayesha ,Pick & Drop,8:00,13:15,0,107,"bahria orchard, lahore, punjab,Pakistan ",31.3180436,74.2017942,AC,Female ,1694
+Maryam ,Pick & Drop,8:00,13:15,0,107,"bahria orchard, lahore, punjab,Pakistan ",31.3180436,74.2017942,AC,Female ,1694
+Hafsa,Pick & Drop,8:00,13:15,0,107,"bahria orchard, lahore, punjab,Pakistan ",31.3180436,74.2017942,AC,Female ,1694
+Hareem,Pick & Drop,8:00,13:15,0,145,"Township lahore,punjab,Pakistan  ",31.4493789,74.2876184,AC,Female ,1696
+Ahmad ,Pick & Drop,8:00,13:15,0,159,"Johar Town, Lahore, Punjab, Pakistan",31.4645821,74.2563627,AC,Male ,1697
+Saim ,Pick & Drop,8:00,13:15,0,159,"Johar Town, Lahore, Punjab, Pakistan",31.4645821,74.2563627,AC,Female ,1697
+Misbah ,Pick & Drop,8:00,13:15,0,159,"Johar Town, Lahore, Punjab, Pakistan",31.4645821,74.2563627,AC,Female ,1697
+Hania ,Pick & Drop,8:00,13:15,0,53,"jail road, lahore, punjab, pakistan ",31.5390908,74.3330508,Non AC,Female ,1700
+Mustafa ,Pick & Drop,8:00,13:15,0,130,"Punjab Co-Operative Housing Society, Lahore, Punjab, Pakistan",31.4604277,74.3680727,AC,Female ,1701
+fizza ,Pick & Drop,8:00,13:15,0,130,"Punjab Co-Operative Housing Society, Lahore, Punjab, Pakistan",31.4604277,74.3680727,AC,Female ,1701
+Mirha ,Pick & Drop,8:00,13:15,0,34,"Nazir garden, lahore, punjab,Pkistan",31.5766933,74.463134,Non AC,Female ,1702
+Fatima ,Pick & Drop,8:00,13:15,0,34,"Nazir garden, lahore, punjab,Pkistan",31.5766933,74.463134,Non AC,Female ,1702
+Mehwish ,Pick & Drop,8:00,13:15,0,,"2-D Multan Rd, Cresent Town, Lahore, Punjab, Pakistan",31.493367,74.2598571,AC,Female ,1703
+Mishal ,Pick & Drop,8:00,13:15,0,,"2-D Multan Rd, Cresent Town, Lahore, Punjab, Pakistan",31.493367,74.2598571,AC,Female ,1703
+Abdul sami ,Pick & Drop,8:00,13:15,0,,"Sector  C bahria, lahore, punjab,Pakistan ",31.3744757,74.1702022,AC,Male ,1708
+M Salik ,Pick & Drop,8:00,13:15,0,129,"PIA Housing society ,lahore, punjab,Pakistan  ",31.4496228,74.2723497,AC,Male ,1710
+M Abubakr ,Pick & Drop,8:00,13:15,0,129,"Bahria town, lahore, punjab,Pkistan  ",31.3650692,74.1420275,AC,Male ,1713
+Hashir ,Pick & Drop,8:00,13:15,0,59,"Bahria town, lahore, punjab,Pkistan  ",31.3650692,74.1420275,AC,Male ,1715
+Hammad ,Pick & Drop,8:00,13:15,0,59,"Bahria town, lahore, punjab,Pkistan  ",31.3650692,74.1420275,AC,Male ,1715
+Mahveen ,Pick & Drop,8:00,13:15,0,,"F75J+CMM, Khayaban-e-Firdousi, Block D2 Block D 2 Phase 1 Johar Town, Lahore, Punjab, Pakistan",31.4585805,74.2791073,AC,Female,1716
+Alyan tahir,Pick & Drop,8:00,13:15,0,179,"AWT  Housing  society ,Lahore ,Punjab,Pakistan ",31.3527556,74.1767982,non AC ,Male ,1717
+Yousaf ,Pick & Drop,8:00,13:15,0,85,"Wapda town ,Lahore, Punjab, Pakistan",31.4319347,74.2514484,non AC ,Male ,1718
+Uzair,Pick & Drop,8:00,13:15,0,85,"Wapda town ,Lahore, Punjab, Pakistan",31.4319347,74.2514484,non AC ,Male ,1718
+Rayan ,Pick & Drop,8:00,13:15,0,50,"Sukh chayn garden, Lahore, Punjab,Pakistan  ",31.392473,74.156082,non AC ,Male ,1723
+Azlan ,Pick & Drop,8:00,13:15,0,131,"AWT  Housing  society, Lahore,Punjab,Pakistan ",31.3527556,74.1767982,non AC ,Male ,1725
+Minahil,Pick & Drop,8:00,13:15,0,131,"AWT  Housing  society, Lahore,Punjab,Pakistan ",31.3527556,74.1767982,non AC ,Female ,1725
+Shahan,Pick & Drop,8:00,13:15,0,131,"AWT  Housing  society, Lahore,Punjab,Pakistan ",31.3527556,74.1767982,non AC ,Male ,1725
+Qasim ,Pick & Drop,8:00,13:15,0,126,"Askar 11 ,Lahore, Punjab,Pakistan ",31.4612309,74.4279883,AC,Male ,1727
+Hareem ,Pick & Drop,8:00,13:15,0,126,"Askar 11 ,Lahore, Punjab,Pakistan ",31.4612309,74.4279883,AC,Female,1727
+Zainab,Pick & Drop,8:00,13:15,0,126,"Askar 11 ,Lahore, Punjab,Pakistan ",31.4612309,74.4279883,AC,Female,1727
+Musa,Pick & Drop,8:00,13:15,0,134,"16M Abdul Haque Rd, Trade Centre Commercial Area Phase 2 Johar Town, Lahore, Punjab 54000, Pakistan",31.4678169,74.2640726,AC,Male,1729
+Dawood,Pick & Drop,8:00,13:15,0,134,"16M Abdul Haque Rd, Trade Centre Commercial Area Phase 2 Johar Town, Lahore, Punjab 54000, Pakistan",31.4678169,74.2640726,AC,Male,1729
+Sabeen ,Pick & Drop,8:00,13:15,0,78,"C block eden values home ,Lahore,Punjab,Pakistan",31.4671081,74.2091828,AC,Female ,1732
+Biya ,Pick & Drop,8:00,13:15,0,78,"C block eden values home ,Lahore,Punjab,Pakistan",31.4671081,74.2091828,AC,Female ,1732
+Samya,Pick & Drop,8:00,13:15,0,78,"C block eden values home ,Lahore,Punjab,Pakistan",31.4671081,74.2091828,AC,Female ,1732
+Khushnud,Pick & Drop,8:00,13:15,0,171,"Harbanspura, Lahore, Punjab,Pakistan ",31.4671081,74.2091828,non AC,Female ,1733
+Aima,Pick & Drop,8:00,13:15,0,171,"Harbanspura, Lahore, Punjab,Pakistan ",31.4671081,74.2091828,non AC,Female ,1733
+Nooe nabi,Pick & Drop,8:00,13:15,0,171,"Harbanspura, Lahore, Punjab,Pakistan ",31.4671081,74.2091828,non AC,Female ,1733
+ABC,Pick & Drop,8:00,13:15,0,125,"Township,Lahore,Punjab,Pakistan  ",31.4493789,74.2876184,AC,Female ,1734
+ABC ,Pick & Drop,8:00,13:15,0,125,"Township,Lahore,Punjab,Pakistan  ",31.4493789,74.2876184,AC,Female ,1734
+ABC,Pick & Drop,8:00,13:15,0,125,"Township,Lahore,Punjab,Pakistan  ",31.4493789,74.2876184,AC,Female ,1734
+Talal,Pick & Drop,8:00,13:15,0,88,"bahria orchard,Lahore,Punjab,Pakistan  ",31.3180436,74.2017942,AC,Male,1737
+Inam ur rehman ,Pick & Drop,8:00,13:15,0,169,"28KM Lahore � Kasur Rd, Lahore, Punjab, Pakistan",31.3312902,74.3849195,AC,Male,1741
+Simal ,Pick & Drop,8:00,13:15,0,169,"28KM Lahore � Kasur Rd, Lahore, Punjab, Pakistan",31.3312902,74.3849195,AC,Female,1741
+sara,Pick & Drop,8:00,13:15,0,169,"28KM Lahore � Kasur Rd, Lahore, Punjab, Pakistan",31.3312902,74.3849195,AC,Female,1741
+Abdullah,Pick & Drop,8:00,13:15,0,100,"DHA EME sector, Lahore, Punjab, Pakistan",31.4389462,74.198687,AC,Male ,1742
+ABC,Pick & Drop,8:00,13:15,0,177,"Al Kabir Town, Raiwind Rd, Phase 2 Lahore, Punjab, Pakistan",31.3522845,74.2322598,AC,Male ,1744
+ABC,Pick & Drop,8:00,13:15,0,177,"Al Kabir Town, Raiwind Rd, Phase 2 Lahore, Punjab, Pakistan",31.3522845,74.2322598,AC,Male ,1744
+ABC,Pick & Drop,8:00,13:15,0,177,"Al Kabir Town, Raiwind Rd, Phase 2 Lahore, Punjab, Pakistan",31.3522845,74.2322598,AC,Male ,1744
+ABC,Pick & Drop,8:00,13:15,0,177,"Al Kabir Town, Raiwind Rd, Phase 2 Lahore, Punjab, Pakistan",31.3522845,74.2322598,AC,Male ,1744
